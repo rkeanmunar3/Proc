@@ -1,0 +1,46 @@
+.card-main{
+    background: rgba(9, 1, 44, 0.3);
+}
+.card-main>.card-body{
+    height: 80vh;
+}
+.table>thead{
+    background: rgba(8, 0, 46,0.5);
+}
+#itemsTable>tbody{
+    color: white;
+    background: white
+}
+
+.DTFC_Cloned>thead>tr{
+    background: rgb(18, 2, 95);
+    color: white
+}
+
+
+.text-lime{
+    color: lime;
+}
+.text-blue{
+    color: rgb(30, 30, 253)
+}
+.text-cyan{
+    color: cyan
+}
+
+#mode{
+    background: transparent;
+}
+.qty, .origqty{
+    padding: 0;
+    text-align: center
+}
+.savePPMP, .sendPPMP{
+    margin-right: 20px
+}
+.savePPMP:hover{
+    color: white
+}
+.sendPPMP:hover{
+    color: white
+}

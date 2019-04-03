@@ -1,0 +1,71 @@
+.card-body{
+    height: 90vh;
+    background: rgba(10, 2, 80, 0.6);
+}
+.card-footer{
+    background: rgba(10, 2, 80, 0.9);
+}
+.card{
+    background: transparent;
+}
+
+.panel{
+    background: rgba(10, 2, 80, 0.6);
+    color: white;
+}
+.panel-head{
+    padding: 2px
+}
+
+#itemsTable>tbody>tr:hover{
+    background: rgba(106, 255, 106, 0.6)
+}
+
+.approveTransaction{
+    color: lime;
+}
+.approveTransaction:hover{
+    color: cyan;
+}
+.disapproveTransaction{
+    color: rgb(255, 53, 53);
+    padding-right: 20px
+}
+.disapproveTransaction:hover{
+    color: cyan;
+}
+
+.itemdesc, .itemspec, .itemname{
+    color: lime
+}
+
+.department, .budget{
+    color: lime
+}
+.line{
+    background: cyan;
+}
+#purpose{
+    min-height: 250px;
+    max-height: 250px;
+}
+
+.modal-content{
+    background: rgba(3, 0, 31, 0.9) !important;
+}
+.modal-header{
+    background: rgba(6, 2, 46, 0.9) !important;
+    padding: 5px 5px 5px 5px;
+}
+.modal-title{
+    font-size: 14px;
+}
+#disapproveModalLabel{
+    color: lime;
+}
+.disapprovePR{
+    color: rgb(255, 14, 14);
+}
+.disapprovePR:hover{
+    color: cyan;
+}

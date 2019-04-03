@@ -1,0 +1,78 @@
+.col-form-label{
+    padding: 5px !important;
+}
+.container-header{
+    background-color: rgba(71, 43, 235, 0.5) !important;
+}
+.container-card{
+    height: 80vh;
+    background-color: rgba(71, 43, 235, 0.5) !important;
+}
+
+.page-name{
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#inventoryTable>thead{
+    background: rgba(13, 3, 73, 0.5)
+}
+#inventoryTable>tbody>tr:hover{
+    background: rgba(5, 221, 34, 0.5) !important;
+    color: white
+}
+.addItem{
+    color: rgb(18, 247, 18);
+    padding: 5px;
+}
+.addItem:hover{
+    background: rgb(2, 2, 68);
+    border: 1px solid cyan;
+    color: white;
+    text-decoration: none
+}
+.addPPMP{
+    color: cyan;
+    padding: 5px;
+}
+.addPPMP:hover{
+    background: rgb(2, 2, 68);
+    border: 1px solid cyan;
+    color: white;
+    text-decoration: none
+}
+#sendPR{
+    color: cyan;
+    background: rgb(2, 2, 68);
+    border: 1px solid lime;
+}
+#sendPR:hover{
+    color: lime;
+    border: 1px solid cyan;
+}
+#savePR{
+    color: cyan;
+    background: rgb(69, 69, 243);
+    border: 1px solid lime;
+}
+#savePR:hover{
+    color: lime;
+    border: 1px solid cyan;
+}
+
+.bottom-card{
+    background: rgba(13, 3, 73, 0.5);
+}
+.status-card{
+    background: rgba(13, 3, 73, 0.5)
+}
+
+.attachment-card{
+    background: rgba(13, 3, 73, 0.5)
+}
+.text-lime{
+    color: lime
+}
+.text-cyan{
+    color: cyan
+}

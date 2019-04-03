@@ -1,0 +1,26 @@
+.col-form-label{
+    padding: 5px !important;
+}
+.container-header{
+    background-color: rgba(71, 43, 235, 0.5) !important;
+}
+.container-card{
+    height: 80vh;
+    background-color: rgba(71, 43, 235, 0.5) !important;
+}
+.card{
+    background-color: rgba(71, 43, 235, 0.5) !important;
+}
+.card-items{
+    height: 400px;
+}
+.container-card>.card-body{
+    overflow-y: scroll;
+}
+
+#inventoryTable>thead{
+    background: rgba(13, 3, 73, 0.5)
+}
+#inventoryTable>tbody>tr:hover{
+    background: rgba(5, 221, 34, 0.5)
+}

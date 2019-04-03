@@ -1,0 +1,106 @@
+.card-main>.card-body{
+    height: 82vh;
+    background: rgba(10, 2, 80, 0.6);
+}
+.card-main>.card-header{
+    background: rgb(7, 0, 58);
+    color: white
+}
+.card-body{
+    background: rgba(10, 2, 80, 0.6);
+}
+.card-footer{
+    background: rgba(10, 2, 80, 0.9);
+}
+.card{
+    background: transparent;
+}
+
+.panel{
+    background: rgba(10, 2, 80, 0.6);
+    color: white;
+}
+.panel-head{
+    padding: 2px
+}
+#tableHeader{
+    background: rgba(9, 1, 44, 0.8);
+    color: white;
+}
+#itemsTable>tbody>tr{
+    color: white;
+}
+.removeItem{
+    color: red
+}
+.removeItem:hover{
+    color: cyan
+}
+
+.returnItem{
+    color: lime
+}
+.returnItem:hover{
+    color: cyan
+}
+.approveTransaction{
+    color: lime;
+}
+.approveTransaction:hover{
+    color: cyan !important;
+}
+.returnTransaction{
+    color: rgb(162, 162, 255);
+}
+.returnTransaction:hover{
+    color: cyan !important;
+}
+.disapproveTransaction{
+    padding-right: 20px;
+    color: rgb(255, 5, 5);
+}
+.disapproveTransaction:hover{
+    color: cyan;
+}
+
+.itemdesc{
+    color: lime;
+}
+.itemspec{
+    color: lime;
+}
+
+#forwardModal .modal-content> .modal-footer{
+    background: rgba(21, 0, 53, 0.8);
+    padding: 5px;
+}
+
+.text-lime{
+    color: lime
+}
+.text-cyan{
+    color: cyan;
+}
+.attachment-card-body{
+    height: 152px !important;
+    overflow-y: scroll;
+}
+#attachmentsTable>tbody>tr{
+    color: white
+}
+#attachmentsTable>tbody>tr:hover{
+    background: rgba(53, 211, 79, 0.6)
+}
+
+#purpose{
+    max-height: 185px;
+    min-height: 185px;
+}
+.printButton{
+    padding-right: 20px;
+    color: cyan
+}
+.printButton:focus{
+    
+    color: cyan
+}

@@ -1,0 +1,80 @@
+.col-form-label{
+    padding: 5px !important;
+}
+.container-header{
+    background-color: rgba(10, 3, 48, 0.5) !important;
+}
+.container-card{
+    height: 75vh;
+    background-color: rgba(71, 43, 235, 0.5) !important;
+}
+.page-name{
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#prTable>tbody>tr:hover{
+    background: rgba(6, 247, 10, 0.3);
+    cursor: pointer;
+}
+#prTable>thead{
+    background: rgba(13, 3, 70, 0.3);
+}
+.viewItems{
+    color: lawngreen;
+}
+.viewItems:hover{
+    color: blue;
+}
+.viewPR{
+    color: lawngreen
+}
+.modal-header{
+    background: rgb(17, 3, 94)
+}
+.modal-content{
+    height: 670px;
+}
+.modal-dialog{
+    max-width: 1500px;
+    width: 1000px;
+}
+.modal-body{
+    overflow-y:scroll;
+}
+.qty{
+    width: 100px;
+    text-align: center;
+}
+.price{
+    width: 100px;
+}
+#prModalLabel{
+    color: lime;
+}
+.remove:hover{
+    color: red
+}
+.approvePR{
+    color: cyan;
+    padding: 5px;
+}
+.approvePR:hover{
+    background: rgb(2, 2, 68);
+    border: 1px solid cyan;
+    color: lime;
+    text-decoration: none
+}
+.viewTransaction{
+    color: cyan;
+    padding: 3px 15px 3px 15px;
+    background: rgb(2, 2, 68);
+    border: 1px solid lime;
+    width: 50px !important;
+    
+}
+.viewTransaction:hover{
+    color: cyan;
+    background: limegreen;
+    border: 1px solid rgb(2, 2, 68);
+}

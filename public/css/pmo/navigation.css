@@ -1,0 +1,31 @@
+.navigation{
+    background: rgb(53, 29, 107);
+    
+}
+a:hover{
+    color:white
+}
+.dropdown-menu{
+    padding: 0;
+    background: rgb(14, 2, 70);
+    left: auto;
+    right: 0;
+}
+
+#pagename{
+    color: rgba(161, 203, 239, 1);
+
+    font-size: 24px;
+    font-family: "Nunito",sans-serif;
+    cursor: default
+}
+.notification{
+    color: white;
+    padding-right: 0px !important;
+}
+.notification:hover{
+    color: lime;
+}
+#notif-count{
+    color:lime;
+}

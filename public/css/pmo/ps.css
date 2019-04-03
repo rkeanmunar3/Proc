@@ -1,0 +1,41 @@
+.text-lime{
+    color: lime;
+}
+.text-blue{
+    color: blue;
+}
+.hover-cyan:hover{
+    color: cyan;
+    background: #1d643b;
+}
+.addBidder, .addBidderModal, .addBid, .bidderName, .biddercount{
+    color: #068906;
+}
+.hover-blue:hover{
+    color: blue;
+}
+#addModal>.modal-dialog{
+    max-width: 2000px !important;
+    width: 1500px !important;
+}
+#addModal>.modal-dialog>.modal-content>.modal-body{
+    height: 700px !important;
+}
+#itemsTable>tbody{
+    background: white;
+}
+.biddercount>.popover{
+    width: 1000px;
+    max-width: 1000px;
+}
+.childTables{
+    background: #1fe070;
+}
+.childTables>thead{
+    background: #1b6521;
+    color: cyan;
+}
+.childTables>thead:hover{
+    background: #1b6521;
+    color: cyan;
+}

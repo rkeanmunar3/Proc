@@ -1,0 +1,37 @@
+.col-form-label{
+    padding: 5px !important;
+}
+.container-header{
+    background-color: rgba(71, 43, 235, 0.5) !important;
+}
+.container-card{
+    height: 80vh;
+    background-color: rgba(71, 43, 235, 0.5) !important;
+}
+.container-card>.card-body{
+    overflow-y: scroll;
+}
+.page-name{
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#inventoryTable>thead{
+    background: rgba(13, 3, 70, 0.3);
+}
+#inventoryTable>tbody>tr:hover{
+    background: rgba(6, 247, 10, 0.3)
+}
+
+.addPR{
+    text-align: center;
+    font-size: 14px;
+    padding: 5 5 5 5;
+    border-color: green;
+    color: lime;
+    border: 1px solid rgba(53, 29, 107, 0.3);
+}
+.addPR:hover{
+    background: green;
+    border-color: 1px solid cyan;
+}

@@ -1,0 +1,27 @@
+.login-container{
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center
+}
+
+.input-group-prepend{
+    background-color: rgba(50, 220, 138, 1) !important;
+
+}
+
+.card{
+    background: rgba(10, 38, 116, 0.3)
+}
+.card>.card-body{
+    height: 500px;
+}
+.logo{
+    height: 200px;
+}
+.logo-container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px
+}

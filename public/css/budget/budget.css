@@ -1,0 +1,40 @@
+.addenduser{
+    color: green;
+    text-align: center;
+}
+.addenduser:hover{
+    color: blue;
+    text-align: center;
+}
+
+.modal-content{
+
+}
+.card-header{
+    background: rgb(9, 0, 58);
+    color: lime;
+    padding: 10px 
+}
+.modal-footer{
+    background: rgb(11, 4, 54);
+    padding: 2px;
+    margin-bottom: 0
+}
+label{
+    margin-bottom: 0
+}
+.add{
+    color: cyan
+}
+.add:hover{
+    color: green
+}
+.text-lime{
+    color: lime
+}
+.text-green{
+    color: green
+}
+.text-green:hover{
+    color: blue
+}

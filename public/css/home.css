@@ -1,0 +1,35 @@
+
+.nav-container{
+    height: 80vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.home-navs{
+    color: rgb(94, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    
+}
+h6{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.home-navs-divs{
+    height: 200px;
+    width: 350px;
+    background: rgba(153, 27, 143, 0.3);
+    border: 1px solid rgba(78, 143, 48), 0.3;
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.home-navs-divs:hover{
+    background: rgba(14, 228, 25, 0.3);
+    border: 1px solid cyan;
+    color: white;
+}

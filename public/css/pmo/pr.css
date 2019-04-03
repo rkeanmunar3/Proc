@@ -1,0 +1,129 @@
+.col-form-label{
+    padding: 5px !important;
+}
+.container-header{
+    background-color: rgba(71, 43, 235, 0.5) !important;
+}
+.container-card{
+    height: 75vh;
+    background-color: rgba(71, 43, 235, 0.5) !important;
+}
+.container-card>.card-body{
+    overflow-y: scroll;
+}
+.page-name{
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#prTable>tbody>tr:hover{
+    background: rgba(6, 247, 10, 0.3);
+    cursor: pointer;
+}
+#prTable>thead{
+    background: rgba(13, 3, 70, 0.3);
+}
+.viewItems{
+    color: lawngreen;
+}
+.viewItems:hover{
+    color: blue;
+}
+.viewPR{
+    color: lawngreen
+}
+.modal-header{
+    background: rgb(17, 3, 94)
+}
+.modal-content{
+    height: 900px;
+}
+.modal-dialog{
+    max-width: 2000px;
+    width: 1800px;
+}
+.modal-body{
+    overflow-y:scroll;
+}
+.qty{
+    width: 100px;
+    text-align: center;
+}
+.price{
+    width: 100px;
+}
+#prModalLabel{
+    color: lime;
+}
+.viewPR{
+    color: lime;
+    padding: 5px;
+}
+.viewPR:hover{
+    background: rgb(2, 2, 68);
+    border: 1px solid cyan;
+    color: cyan;
+    text-decoration: none
+}
+.generatePO{
+    color: cyan;
+    padding: 5px;
+}
+.generatePO:hover{
+    background: rgb(2, 2, 68);
+    border: 1px solid cyan;
+    color: lime;
+    text-decoration: none
+}
+
+.card-main>.card-body{
+    height: 700px;
+}
+.card-main{
+    background: rgba(21, 0, 53, 0.3)
+}
+.card-main>.card-footer{
+    background: rgb(2, 2, 68, 0.3);
+}
+#itemsTable>thead{
+    background: rgba(9, 1, 44, 0.8);
+    color: white !important;
+}
+#itemsTable>tbody>tr{
+    color: white;
+}
+.removeItem{
+    color: red
+}
+.removeItem:hover{
+    color: cyan
+}
+.returnItem{
+    color: lime
+}
+.returnItem:hover{
+    color: cyan
+}
+
+.returnPR{
+    color: #6b75ff;
+}
+.returnPR:hover{
+    color: white;
+    background: blue;
+}
+.approvePR{
+    color: #92bc30;
+}
+.approvePR:hover{
+    color: rgb(2, 2, 68);
+    background: lime;
+}
+
+.disapprovePR{
+    color: #8f0606;
+}
+.disapprovePR:hover{
+    color: rgb(255, 255, 255);
+    background: rgb(122, 2, 2);
+}
